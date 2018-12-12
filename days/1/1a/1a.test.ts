@@ -17,7 +17,7 @@ describe('1A getFrequency()', () => {
     });
   });
 
-  describe('test case two', () => {
+  describe('test case three', () => {
     const numbers = [-1, -2, -3];
 
     it('returns the proper frequency', () => {
